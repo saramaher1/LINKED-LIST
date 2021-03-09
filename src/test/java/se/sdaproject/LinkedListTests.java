@@ -4,7 +4,8 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-class LinkedListTests {
+class LinkedListTests  //
+{
 
     @Test
     void addsTwoNumbers() {
